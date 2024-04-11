@@ -1,0 +1,7 @@
+{
+    "shutErDown": false,
+    "loggingEnabled": false,
+    "removeSecureContainerFilters": false,
+    "removeBackpackFilters": false,
+    "removeGeneralContainerFilters": false
+}
